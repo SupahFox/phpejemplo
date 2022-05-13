@@ -1,0 +1,28 @@
+@font-face{
+    font-family: SourceSans;
+    src: url("../fonts/SourceSans/SourceSansPro-Regular.ttf")
+}
+
+*{
+    font-family: SourceSans;
+}
+
+.centro {
+    text-align: center;
+}
+
+.fondonegro{
+    background-color: black;
+}
+
+.fondoverde{
+    background-color: green;
+}
+
+li{
+    color: white;
+}
+
+h2{
+    color: white;
+}
